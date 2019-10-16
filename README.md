@@ -1,2 +1,4 @@
 # Machine-Learning-Kaggle-Competition
-Source code and csv files
+Important: Source code of the file submitted: linear_regr.py
+CSV with best score on the public leaderboard: bestbest_submission.csv :)
+The rest I used for trying out new things and testing.
